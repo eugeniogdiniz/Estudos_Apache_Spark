@@ -28,3 +28,9 @@ De volta no terminal do VSCode, instale as seguintes bibliotecas:
     tar -xvzf spark-3.1.3-bin-hadoop3.2.tgz
 
     export SPARK_HOME=/home/eugenio/Documents/Estudos_Spark/spark-3.1.3-bin-hadoop3.2
+
+Link para tutorial de instalação do Spark no Windowns:
+
+https://www.youtube.com/watch?v=1gdOMSimjXk
+
+Lembre-se de criar 3 variaveis de ambiente: SPARK_HOME, HADOOP_HOME E JAVA_HOME (sempre verifique se esse ultimo existe e está atualizado)
